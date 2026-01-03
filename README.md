@@ -23,6 +23,7 @@ Collection of all my leetcode questions
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -36,4 +37,5 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
