@@ -5,6 +5,7 @@ Collection of all my leetcode questions
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@ Collection of all my leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## String
 |  |
