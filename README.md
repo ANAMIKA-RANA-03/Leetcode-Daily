@@ -5,11 +5,13 @@ Collection of all my leetcode questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
