@@ -42,5 +42,10 @@ Collection of all my leetcode questions
 ## Math
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0593-valid-square) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
