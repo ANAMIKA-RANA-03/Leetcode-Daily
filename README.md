@@ -8,6 +8,7 @@ Collection of all my leetcode questions
 | [0001-two-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -22,6 +23,7 @@ Collection of all my leetcode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -62,4 +64,8 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
