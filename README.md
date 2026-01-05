@@ -10,6 +10,7 @@ Collection of all my leetcode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,8 +45,13 @@ Collection of all my leetcode questions
 | ------- |
 | [0593-valid-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0593-valid-square) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Geometry
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0593-valid-square) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
