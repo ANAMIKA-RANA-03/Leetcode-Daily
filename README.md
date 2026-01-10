@@ -29,6 +29,7 @@ Collection of all my leetcode questions
 | [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## String
@@ -36,6 +37,7 @@ Collection of all my leetcode questions
 | ------- |
 | [0125-valid-palindrome](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Queue
 |  |
 | ------- |
