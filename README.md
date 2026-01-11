@@ -9,6 +9,7 @@ Collection of all my leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
+| [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -27,6 +28,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
+| [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -78,6 +80,7 @@ Collection of all my leetcode questions
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 ## Tree
 |  |
@@ -102,4 +105,12 @@ Collection of all my leetcode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
