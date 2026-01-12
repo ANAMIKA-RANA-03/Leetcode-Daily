@@ -13,6 +13,7 @@ Collection of all my leetcode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
@@ -58,12 +59,14 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0593-valid-square) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Geometry
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0593-valid-square) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 ## Number Theory
 |  |
 | ------- |
