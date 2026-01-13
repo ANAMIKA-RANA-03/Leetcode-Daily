@@ -18,6 +18,7 @@ Collection of all my leetcode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3453-separate-squares-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3453-separate-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [3453-separate-squares-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3453-separate-squares-i) |
 ## Greedy
 |  |
 | ------- |
