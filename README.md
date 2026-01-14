@@ -19,6 +19,7 @@ Collection of all my leetcode questions
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3453-separate-squares-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of all my leetcode questions
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [3453-separate-squares-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -118,4 +120,12 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
