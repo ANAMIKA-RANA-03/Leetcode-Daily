@@ -18,6 +18,7 @@ Collection of all my leetcode questions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
 ## Hash Table
@@ -128,4 +129,8 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
+## Sorting
+|  |
+| ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
