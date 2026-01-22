@@ -39,6 +39,7 @@ Collection of all my leetcode questions
 | ------- |
 | [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
@@ -68,6 +69,7 @@ Collection of all my leetcode questions
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0593-valid-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0593-valid-square) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
@@ -155,4 +157,8 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
