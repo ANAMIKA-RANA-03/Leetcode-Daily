@@ -14,6 +14,7 @@ Collection of all my leetcode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
+| [0560-subarray-sum-equals-k](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
@@ -32,6 +33,7 @@ Collection of all my leetcode questions
 | ------- |
 | [0001-two-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -163,4 +165,8 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
