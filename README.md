@@ -9,6 +9,7 @@ Collection of all my leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
@@ -37,6 +38,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
@@ -149,4 +151,8 @@ Collection of all my leetcode questions
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
