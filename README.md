@@ -29,6 +29,7 @@ Collection of all my leetcode questions
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3453-separate-squares-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Collection of all my leetcode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,8 +181,25 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
