@@ -20,6 +20,7 @@ Collection of all my leetcode questions
 | [1266-minimum-time-visiting-all-points](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -76,6 +77,7 @@ Collection of all my leetcode questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0125-valid-palindrome) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
 |  |
@@ -153,6 +156,7 @@ Collection of all my leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Enumeration
 |  |
