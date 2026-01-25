@@ -23,6 +23,7 @@ Collection of all my leetcode questions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -157,6 +158,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Enumeration
 |  |
@@ -183,6 +185,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0239-sliding-window-maximum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
