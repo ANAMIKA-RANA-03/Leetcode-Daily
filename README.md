@@ -17,6 +17,7 @@ Collection of all my leetcode questions
 | [0300-longest-increasing-subsequence](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1200-minimum-absolute-difference](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -157,6 +158,7 @@ Collection of all my leetcode questions
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
