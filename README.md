@@ -34,6 +34,7 @@ Collection of all my leetcode questions
 | [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of all my leetcode questions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Collection of all my leetcode questions
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |
 | ------- |
