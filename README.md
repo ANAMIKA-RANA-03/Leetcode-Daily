@@ -22,6 +22,7 @@ Collection of all my leetcode questions
 | [1390-four-divisors](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1895-largest-magic-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -119,6 +120,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
@@ -188,6 +190,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
+| [1895-largest-magic-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1895-largest-magic-square) |
 ## Sliding Window
 |  |
 | ------- |
