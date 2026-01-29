@@ -27,6 +27,7 @@ Collection of all my leetcode questions
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -66,6 +67,7 @@ Collection of all my leetcode questions
 | [0125-valid-palindrome](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Queue
 |  |
 | ------- |
@@ -225,9 +227,11 @@ Collection of all my leetcode questions
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
