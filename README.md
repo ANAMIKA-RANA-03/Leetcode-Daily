@@ -178,11 +178,13 @@ Collection of all my leetcode questions
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3827-count-monobit-integers](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3827-count-monobit-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3827-count-monobit-integers](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3827-count-monobit-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
