@@ -121,6 +121,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0045-jump-game-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1975-maximum-matrix-sum) |
 ## Matrix
@@ -136,12 +137,14 @@ Collection of all my leetcode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,6 +156,7 @@ Collection of all my leetcode questions
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -195,6 +199,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -254,4 +259,8 @@ Collection of all my leetcode questions
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
