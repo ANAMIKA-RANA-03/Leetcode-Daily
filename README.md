@@ -41,6 +41,7 @@ Collection of all my leetcode questions
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3634-minimum-removals-to-balance-array) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of all my leetcode questions
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3454-separate-squares-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Collection of all my leetcode questions
 | ------- |
 | [0053-maximum-subarray](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -209,6 +213,7 @@ Collection of all my leetcode questions
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1895-largest-magic-square) |
+| [3721-longest-balanced-subarray-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
 | ------- |
