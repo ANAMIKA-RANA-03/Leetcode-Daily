@@ -54,6 +54,7 @@ Collection of all my leetcode questions
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ Collection of all my leetcode questions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3714-longest-balanced-substring-ii) |
 ## Queue
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Collection of all my leetcode questions
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0560-subarray-sum-equals-k) |
 | [1895-largest-magic-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1895-largest-magic-square) |
+| [3714-longest-balanced-substring-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sliding Window
 |  |
