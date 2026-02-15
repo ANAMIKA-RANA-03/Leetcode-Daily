@@ -74,6 +74,7 @@ Collection of all my leetcode questions
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0387-first-unique-character-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -99,6 +100,7 @@ Collection of all my leetcode questions
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0593-valid-square](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0593-valid-square) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1266-minimum-time-visiting-all-points) |
@@ -197,6 +199,7 @@ Collection of all my leetcode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0067-add-binary) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3827-count-monobit-integers](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3827-count-monobit-integers) |
@@ -244,6 +247,7 @@ Collection of all my leetcode questions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
