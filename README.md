@@ -200,6 +200,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0190-reverse-bits) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3827-count-monobit-integers](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3827-count-monobit-integers) |
@@ -207,6 +208,7 @@ Collection of all my leetcode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/ANAMIKA-RANA-03/Leetcode-Daily/tree/master/3721-longest-balanced-subarray-ii) |
 ## Memoization
